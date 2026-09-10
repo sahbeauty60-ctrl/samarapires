@@ -1,16 +1,31 @@
-# React + Vite
+# Samara Pires Beauty
 
-This template provides a minimal setup to get React working in Vite with HMR and some Oxlint rules.
+Site institucional do estúdio Samara Pires Beauty — nanopigmentação, design de sobrancelhas e depilação na Vila Ema, São José dos Campos - SP.
 
-Currently, two official plugins are available:
+## Stack
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Oxc](https://oxc.rs)
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/)
+- [React](https://react.dev/) + [Vite](https://vite.dev/)
+- [Tailwind CSS](https://tailwindcss.com/)
+- Deploy na [Vercel](https://vercel.com/)
 
-## React Compiler
+## Rodando localmente
 
-The React Compiler is not enabled on this template because of its impact on dev & build performances. To add it, see [this documentation](https://react.dev/learn/react-compiler/installation).
+```bash
+npm install
+npm run dev
+```
 
-## Expanding the Oxlint configuration
+## Build de produção
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and Oxlint's TypeScript related rules in your project.
+```bash
+npm run build
+```
+
+## Estrutura
+
+- `src/App.jsx` — página principal (hero, serviços, certificado, localização)
+- `src/Intro.jsx` — tela de carregamento animada
+- `src/Navbar.jsx` — menu fixo com glassmorphism
+- `src/BookingModal.jsx` — modal de agendamento via WhatsApp
+- `src/Footer.jsx` — rodapé com política de privacidade (LGPD)
+- `public/` — vídeos, sitemap, robots.txt e llms.txt
