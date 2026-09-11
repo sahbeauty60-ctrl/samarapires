@@ -1,0 +1,28 @@
+# Samara Pires Beauty
+
+> Estúdio de beleza em São José dos Campos - SP, especializado em nanopigmentação de sobrancelhas, design de sobrancelhas e depilação.
+
+Samara Pires Beauty é um estúdio de estética facial e corporal comandado por Samara Pires, formada pela Beauty University na técnica Flow Brows Start Technique. O site é uma página única (single page) com informações sobre os serviços, certificação profissional, localização e canal direto de agendamento via WhatsApp.
+
+## Serviços
+
+- Nanopigmentação de sobrancelhas: técnica de pigmentação fio a fio para preencher e definir sobrancelhas.
+- Design de sobrancelhas: modelagem e alinhamento personalizado das sobrancelhas.
+- Depilação: remoção de pelos com cera quente.
+
+## Localização
+
+- Cidade: São José dos Campos - SP, Brasil.
+- Endereço no Google Maps: https://maps.app.goo.gl/624VFj9GHbrHHnkg8
+
+## Contato e agendamento
+
+- WhatsApp: https://wa.me/5512988018098
+- Instagram: https://instagram.com/samara_piresbeauty
+- Agendamento: o site tem um botão "Agendamento" que abre um formulário simples (escolha de serviço + mensagem) e gera um link direto para o WhatsApp.
+
+## Notas para agentes e crawlers
+
+- Este é um site institucional de um único estabelecimento de beleza, sem e-commerce, blog ou conteúdo multi-página.
+- Não há coleta de dados via cookies ou rastreamento de terceiros.
+- Política de privacidade (LGPD) disponível no rodapé do site.
