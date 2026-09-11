@@ -85,6 +85,12 @@ function App() {
             </div>
 
             <div className="flex flex-col items-center gap-6 px-4 pb-20">
+              <h2 className="sr-only">
+                Samara Pires Beauty: nanopigmentação, design de sobrancelhas e depilação na Vila
+                Ema, São José dos Campos. Procurando sobrancelha perto de mim? A Samara Pires
+                atende na Vila Ema, São José dos Campos.
+              </h2>
+
               <div className="flex w-full flex-col items-center gap-6 sm:flex-row sm:items-start sm:justify-center">
               <div id="nanopigmentacao" className="w-full max-w-xs scroll-mt-28 sm:max-w-sm">
                 <button
@@ -94,7 +100,7 @@ function App() {
                 >
                   <img
                     src={nanopigmentacao}
-                    alt="Nanopigmentação"
+                    alt="Nanopigmentação com Samara Pires"
                     className="h-full w-full scale-100 object-cover"
                     draggable="false"
                   />
@@ -131,7 +137,7 @@ function App() {
                 >
                   <img
                     src={design}
-                    alt="Design"
+                    alt="Design de sobrancelhas com Samara Pires"
                     className="h-full w-full scale-100 object-cover"
                     draggable="false"
                   />
@@ -171,7 +177,7 @@ function App() {
                 >
                   <img
                     src={depilacao}
-                    alt="Depilação"
+                    alt="Depilação com Samara Pires"
                     className="h-full w-full object-cover"
                     draggable="false"
                   />
